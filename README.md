@@ -12,10 +12,10 @@ Each algorithm is implemented in a separate Python file to allow easy comparison
 
 The 8 Puzzle is a sliding puzzle that consists of a 3x3 grid with tiles numbered 1 through 8 and one empty space (`0`). The objective is to move the tiles around to match the **goal state** by sliding them into the empty space.
 
-Example Goal State:</b>
-1 2 3</b>
-4 5 6</b>
-7 8 0</b>
+Example Goal State:</br>
+1 2 3</br>
+4 5 6</br>
+7 8 0</br>
 ---
 
 ## 🚀 Project Features
